@@ -267,14 +267,10 @@ flutter run
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto es parte de un taller académico de la UCEVA.
 
 ## 👥 Autor
 
-Desarrollado como parte del taller de Flutter con Firebase.
-
+Jose Manuel Cardenas Gamboa
 ## 🔗 Enlaces Útiles
 
 - [Documentación de Flutter](https://docs.flutter.dev/)
